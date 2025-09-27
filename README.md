@@ -17,9 +17,10 @@ Over the years, I’ve worked with startups and agencies to **design, develop, a
 
 ## 🛠 Tech Stack Expertise
 
-**Languages & Frameworks:** PHP • Node.js • Go • JavaScript • Laravel • CodeIgniter • Yii • Symfony • Express.js • Vue.js • jQuery
-**Databases:** MySQL • MongoDB  
-**Tools & Platforms:** Git • Docker  
+- PHP • Go • JavaScript
+- Node.js • Laravel • CodeIgniter • Yii • Symfony • Express.js • Vue.js • jQuery
+- MySQL • MongoDB • PostgreSQL
+- Git • Docker  
 
 ---
 
